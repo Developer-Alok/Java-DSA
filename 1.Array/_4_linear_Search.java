@@ -10,13 +10,10 @@ public class _4_linear_Search {
       } 
     }
     return -1;
-   
-
   }
 
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
-
     System.out.print("Enter the size array:");
     int size = sc.nextInt();
 
